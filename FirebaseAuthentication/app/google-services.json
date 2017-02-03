@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "68175364443",
+    "firebase_url": "https://fir-authentication-8c754.firebaseio.com",
+    "project_id": "fir-authentication-8c754",
+    "storage_bucket": "fir-authentication-8c754.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68175364443:android:7e96a5acb4c137e5",
+        "android_client_info": {
+          "package_name": "com.tabian.firebaseauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68175364443-oud5niktu3got17ksg9f276n4g70bn5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfCAhOI5BcuiUlfzF5RAUUcj8VJrMlK8U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68175364443-oud5niktu3got17ksg9f276n4g70bn5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
